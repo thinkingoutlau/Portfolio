@@ -18,14 +18,14 @@ const Profile = () => {
       </div>
       <br />
 
-      <a target="_blank" href="https://www.linkedin.com/in/thinkingoutlau/">
+      <a target="_blank" href="https://www.linkedin.com/in/winnielauuu/">
         <button>Linkedin</button>
       </a>
 
       <a target="_blank" href="https://github.com/thinkingoutlau">
         <button>Github</button>
       </a>
-      <a target="_blank" href={"WinnieLau_Resume.pdf"}>
+      <a target="_blank" href={"Winnie_Lau_Resume1.pdf"}>
         <button>Resume</button>
       </a>
     </div>

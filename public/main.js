@@ -3445,13 +3445,13 @@ var Profile = function Profile() {
     className: "aboutMe"
   }, "Hi there! I'm Winnie and I'm from NYC :) I am a software engineer \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB and was a former educator \uD83D\uDC69\uD83C\uDFFB\u200D\uD83C\uDFEB. I was a high school mathematics teacher and a college lecturer. My passions were always mathematics and education. It wasn't until I came upon this new world that I discovered coding will become another passion of mine. I recently transitioned into the tech world and have been loving every minute of it!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     target: "_blank",
-    href: "https://www.linkedin.com/in/thinkingoutlau/"
+    href: "https://www.linkedin.com/in/winnielauuu/"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", null, "Linkedin")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     target: "_blank",
     href: "https://github.com/thinkingoutlau"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", null, "Github")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     target: "_blank",
-    href: "WinnieLau_Resume.pdf"
+    href: "Winnie_Lau_Resume1.pdf"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", null, "Resume")));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Profile);
@@ -3523,7 +3523,7 @@ var projects = [_defineProperty({
   id: 1,
   title: "Optimate",
   description: "Dating App",
-  link: "https://optimate8.herokuapp.com/",
+  link: "https://optim8.netlify.app/",
   github: "https://github.com/thinkingoutlau/Optimate",
   date: "October 2022"
 }, "description", "Not your typical dating app :)"), _defineProperty({

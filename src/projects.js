@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     title: "Optimate",
     description: "Dating App",
-    link: "https://optimate8.herokuapp.com/",
+    link: "https://optim8.netlify.app/",
     github: "https://github.com/thinkingoutlau/Optimate",
     date: "October 2022",
     description: "Not your typical dating app :)",
